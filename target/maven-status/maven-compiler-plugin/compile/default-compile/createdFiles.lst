@@ -1,0 +1,3 @@
+org\otto\spike\springboot\Model\Hello.class
+org\otto\spike\springboot\HelloServiceMain.class
+org\otto\spike\springboot\RestController\HelloController.class
